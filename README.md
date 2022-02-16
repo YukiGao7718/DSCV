@@ -1,6 +1,6 @@
 # DSCV: Double Sampling Cross Validation Framework
 
-By the co-work of Yuchen Zhu and Siyu Gao
+By the co-work of Yuchen Zhu and Siyu Gao in New York University Shanghai
 
 This repo contains all the code implementation and experiment details for the project DSCV: Unknown Unknown Detection in Imbalance Learning, which is an algorithmic framework that can address both imbalanced learning and open set recognition at the same time.
 
