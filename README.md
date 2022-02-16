@@ -90,7 +90,7 @@ If you found our work useful to your research, we will appreciate if you can cit
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/zyc4975matholic/DSCV}}
+  howpublished = {\url{https://github.com/zyc4975matholic/DSCV,https://github.com/YukiGao7718/DSCV}}
 }
 ```
 
